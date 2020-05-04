@@ -1,0 +1,6 @@
+.grid-boxes{
+    display: grid;
+}
+.grid-boxes img{
+    width: 100%;
+}
