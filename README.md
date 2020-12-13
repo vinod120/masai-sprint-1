@@ -5,4 +5,4 @@ My first project on Web Design
 
 2. #Comics, #Videos, #About, #Profile these tabs implemented only.
 
-3. Responsive Website .
+3. Responsive Website.
